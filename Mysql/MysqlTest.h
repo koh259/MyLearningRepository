@@ -10,7 +10,7 @@
 // 数据库连接信息
 #define MASTER_HOST "localhost"
 #define MASTER_USER "root"
-#define MASTER_PASS "password"
+#define MASTER_PASS "12345678"
 #define SLAVE_HOST "localhost"
 #define SLAVE_USER "root"
 #define SLAVE_PASS "12345678"
